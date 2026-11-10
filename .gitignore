@@ -1,0 +1,21 @@
+# Build files
+_BUILD/
+RELEASE/
+build/
+dist/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# PyInstaller
+*.spec
+
+# Temporary files
+*.tmp
+*.log
