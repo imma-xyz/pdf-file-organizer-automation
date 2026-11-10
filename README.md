@@ -134,4 +134,4 @@ It demonstrates how Python and freely available tools can be used to improve adm
 
 ---
 
-**Developed by [imma-xyz](https://github.com/imma-xyz)**
+**Developed by [imma](https://github.com/imma-xyz)**
